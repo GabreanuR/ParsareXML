@@ -1,0 +1,15 @@
+Root:
+	Person:
+		Name:
+			Surname:
+				Smith
+			FirstName:
+				John
+		Age:
+			30
+	State:
+		City:
+			New York
+		County:
+			Manhattan
+	
