@@ -20,9 +20,7 @@ You need:
 - **Bash shell (default on most Unix-based systems)**  
 
 ### Running the Script  
-Make the script executable:  
+Make the script executable and run it:  
 ```sh
-chmod +x convert.sh
-
-Running it:
-./convert.sh
+chmod +x itbi.sh
+./itbi.sh
